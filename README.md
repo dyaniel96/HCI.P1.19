@@ -10,15 +10,19 @@
 
 
 ## Golden rules of interface design
+
 ### Consistency
 - Same icon desgin/position
 - Universal usability
+
 ### Feedback
 - Offer informative feedback
 - All actions should result in system feedback
+
 ### Userfriendly
 - Permit easy reversal of actions
 - Reduce short term memory load (7 +/- 2)
+
 ### Error handling
 - Offer error prevention and simple error handling
 
