@@ -1,6 +1,6 @@
 # ProjectOne
 
-[Github page](https://github.com/dyaniel96/HCIPROJECT1/)(Link:https://github.com/dyaniel96/HCIPROJECT1/)<br/>
+[Github page](https://github.com/dyaniel96/HCI.P1.19/)(Link:https://github.com/dyaniel96/HCI.P1.19/)<br/>
 
 [Download page](https://github.com/dyaniel96/HCIPROJECT1/archive/master.zip/)(Link:https://github.com/dyaniel96/HCIPROJECT1/archive/master.zip/)<br/>
 
