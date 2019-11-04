@@ -1,5 +1,6 @@
 # ProjectOne
-Mirror Project 
+Github pager: https://github.com/dyaniel96/HCIPROJECT1
+Mirror Project Download: https://github.com/dyaniel96/HCIPROJECT1/archive/master.zip
 
 ##  Original UI Sketch
 <img src="https://user-images.githubusercontent.com/15820167/66969121-eb292100-f04d-11e9-95ae-794fea7b6748.png" alt="" data-canonical-src="https://user-images.githubusercontent.com/15820167/66969121-eb292100-f04d-11e9-95ae-794fea7b6748.png" width="420" height="420" /> <img src="https://user-images.githubusercontent.com/15820167/66971743-fb45fe00-f057-11e9-8d5e-f43f6490347d.png" alt="" data-canonical-src="https://user-images.githubusercontent.com/15820167/66971743-fb45fe00-f057-11e9-8d5e-f43f6490347d.png" width="420" height="420" /> 
